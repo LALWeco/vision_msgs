@@ -27,6 +27,8 @@ set(msg_files
   msg/Detection2D.msg
   msg/Detection3DArray.msg
   msg/Detection3D.msg
+  msg/Keypoint2D.msg
+  msg/Keypoint2DArray.msg
   msg/LabelInfo.msg
   msg/ObjectHypothesis.msg
   msg/ObjectHypothesisWithPose.msg
